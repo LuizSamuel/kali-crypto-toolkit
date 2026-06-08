@@ -88,5 +88,4 @@ print("  ✓ PKCS7 padding handles non-16-byte data")
 print("  ✓ AES-256 provides 256-bit security strength")
 
 print("\n" + "=" * 70)
-print("WEEK 4 COMPLETE - Ready for Week 5: RSA")
 print("=" * 70)
