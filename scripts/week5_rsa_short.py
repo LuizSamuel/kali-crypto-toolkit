@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Week 5: RSA Public Key Cryptography - Short Version (Fixed)
-One screenshot covering all requirements
+Week 5: RSA Public Key Cryptography 
+Screenshot covering all requirements
 """
 
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
