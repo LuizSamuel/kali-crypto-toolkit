@@ -1,0 +1,23 @@
++----------------------------------------------------------------------+
+|                    CREATIVE WORK SUMMARY - BIT4138                   |
++----------------------------------------------------------------------+
+|                                                                      |
+|   Student: Gakere Samuel                                             |
+|   Admission: BSCCS/2024/55278                                        |
+|   Lecturer: MR NYORO MICHAEL                                         |
+|   Course: BIT4138 - Advanced Cryptography                           |
+|   Year: 2026                                                         |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|   File 1: 01_cover_banner.txt     - ASCII Art Cover Page            |
+|   File 2: 02_crypto_timeline.txt  - Learning Timeline               |
+|   File 3: 03_algorithm_comparison.html - HTML Comparison Table      |
+|   File 4: 04_crypto_cheatsheet.txt - Quick Reference Cheat Sheet    |
+|   File 5: 05_certificate.txt      - Certificate of Completion       |
+|   File 6: 06_python_banner.py     - Reusable Python Banner          |
+|   File 7: 07_creative_summary.txt - This summary file               |
+|                                                                      |
+|   Location: ~/kali-crypto-toolkit/creative/                         |
+|                                                                      |
++----------------------------------------------------------------------+

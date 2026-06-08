@@ -1,0 +1,24 @@
++----------------------------------------------------------------------+
+|                                                                      |
+|                    CERTIFICATE OF COMPLETION                         |
+|                                                                      |
+|                    BIT4138: Advanced Cryptography                    |
+|                                                                      |
+|                    Presented to: Gakere Samuel                       |
+|                    Admission: BSCCS/2024/55278                       |
+|                    Date: 2026                                        |
+|                                                                      |
+|                    -------------------------------------------------  |
+|                    Completed Weeks 1-6                               |
+|                    -------------------------------------------------  |
+|                                                                      |
+|     [X] Environment Setup    [X] Classical Ciphers    [X] Stream Ciphers |
+|     [X] AES Block Cipher     [X] RSA Public Key       [X] Hashing & PWD |
+|                                                                      |
+|                                                                      |
+|                    ------------- SIGNED -------------                |
+|                                                                      |
+|                    Lecturer: MR NYORO MICHAEL                        |
+|                    Date: 2026                                        |
+|                                                                      |
++----------------------------------------------------------------------+
