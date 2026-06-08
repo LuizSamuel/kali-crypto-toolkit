@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Week 1: Complete Cryptography Environment Setup Test
-Run this to generate output for your logbook screenshots
+My logbook screenshots
 """
 
 import sys
@@ -17,7 +17,7 @@ print(f"Python Version: {sys.version}")
 print(f"Platform: {platform.system()} {platform.release()}")
 print("=" * 70)
 
-# Test 1: Fernet (Cryptography Library)
+#  Fernet (Cryptography Library)
 print("\n[TEST 1] Fernet Symmetric Encryption (cryptography library)")
 try:
     from cryptography.fernet import Fernet
@@ -109,5 +109,4 @@ print("  ✓ PyCryptodome installed (AES)")
 print("  ✓ OpenSSL available for certificates")
 print("  ✓ Environment ready for Weeks 2-10")
 print("=" * 70)
-print("PROCEED TO WEEK 2: Classical Ciphers")
 print("=" * 70)
