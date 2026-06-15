@@ -26,5 +26,5 @@ def display_footer():
 
 if __name__ == "__main__":
     display_banner(1, "Environment Setup")
-    print("  Creative work ready for your report.")
+    print("  Creative work inclided to the report .")
     display_footer()

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Week 3: Stream Ciphers - LFSR and RC4 (Short Version)
-One screenshot covering all requirements
+Week 3: Stream Ciphers - LFSR and RC4 
+ Screenshot covering all requirements
 """
 
 import time

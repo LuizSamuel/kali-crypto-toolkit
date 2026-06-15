@@ -90,9 +90,7 @@ print("WEEK 2: CLASSICAL CRYPTOGRAPHY IMPLEMENTATION")
 print("BIT4138 - Advanced Cryptography")
 print("=" * 70)
 
-# ============================================================
 # FIG 2.1: Caesar Cipher Implementation
-# ============================================================
 print("\n[FIG 2.1] Caesar Cipher Implementation")
 print("-" * 50)
 
@@ -110,9 +108,8 @@ print(f"  Decrypted:    {caesar_decrypted}")
 print(f"  Status:       {'✓ PASS' if test_text == caesar_decrypted else '✗ FAIL'}")
 
 
-# ============================================================
 # FIG 2.2: Vigenère Cipher Implementation
-# ============================================================
+
 print("\n[FIG 2.2] Vigenère Cipher Implementation")
 print("-" * 50)
 
@@ -137,9 +134,8 @@ print(f"  Shift: 10 0  11 8  10 0  11 8  10 0  11 8")
 print(f"  C: M  R  J  X  D  O  R  Z  K  P  S  G")
 
 
-# ============================================================
 # FIG 2.3: Caesar Brute Force (Security Weakness)
-# ============================================================
+
 print("\n[FIG 2.3] Caesar Cipher Brute Force Attack")
 print("-" * 50)
 
@@ -153,9 +149,8 @@ for shift, result in CaesarCipher.brute_force(sample_cipher)[:10]:
     print(f"  {shift:3}   | {result}")
 
 
-# ============================================================
 # FIG 2.4: User Input Validation
-# ============================================================
+
 print("\n[FIG 2.4] User Input Validation Features")
 print("-" * 50)
 
@@ -174,9 +169,8 @@ print(f"  Encrypted: '{caesar_mixed}'")
 print(f"  Non-letters preserved: ✓")
 
 
-# ============================================================
 # FIG 2.5: Cipher Testing Results
-# ============================================================
+
 print("\n[FIG 2.5] Cipher Testing Results & Security Analysis")
 print("-" * 50)
 
@@ -218,9 +212,8 @@ print("    4. Both: Not secure for modern applications")
 print("    5. Recommendation: Use AES or ChaCha20 for modern encryption")
 
 
-# ============================================================
 # Summary
-# ============================================================
+
 print("\n" + "=" * 70)
 print("WEEK 2 SUMMARY")
 print("=" * 70)
@@ -230,7 +223,6 @@ print("  ✓ Brute force attack demonstrated Caesar weakness")
 print("  ✓ Input validation preserves non-alphabetic characters")
 print("  ✓ Security analysis completed")
 print("=" * 70)
-print("READY FOR WEEK 3: Stream Ciphers (LFSR & RC4)")
 print("=" * 70)
 
 # Demonstrate frequency analysis

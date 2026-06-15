@@ -1,9 +1,8 @@
 cd ~/kali-crypto-toolkit/creative
 
-# Update cover banner with lecturer name
 sed -i 's/Lecturer: \[Lecturer Name\]/Lecturer: MR NYORO MICHAEL/g' 05_certificate.txt
 
-# Also update the certificate file directly to ensure it's there
+# The  update of the certificate file directly
 cat > creative/05_certificate.txt << 'CERT'
 +----------------------------------------------------------------------+
 |                                                                      |
@@ -31,7 +30,7 @@ cat > creative/05_certificate.txt << 'CERT'
 +----------------------------------------------------------------------+
 CERT
 
-# Update the Python banner as well
+# Update of the Python banner 
 cat > creative/06_python_banner.py << 'PYTHON'
 #!/usr/bin/env python3
 """
@@ -65,10 +64,10 @@ if __name__ == "__main__":
     display_footer()
 PYTHON
 
-# Also update the HTML comparison table
+# The update of the HTML comparison table
 sed -i 's/BIT4138 Advanced Cryptography - 2026/BIT4138 Advanced Cryptography - 2026 | Lecturer: MR NYORO MICHAEL/g' creative/03_algorithm_comparison.html
 
-# Add to creative summary
+# Creative summary
 cat > creative/07_creative_summary.txt << 'SUMMARY'
 +----------------------------------------------------------------------+
 |                    CREATIVE WORK SUMMARY - BIT4138                   |
@@ -95,10 +94,10 @@ cat > creative/07_creative_summary.txt << 'SUMMARY'
 +----------------------------------------------------------------------+
 SUMMARY
 
-# Make Python script executable
+# Making Python script executable
 chmod +x creative/06_python_banner.py
 
-# Display the updated certificate
+# The updated certificate
 echo ""
 echo "+----------------------------------------------------------------------+"
 echo "|                    UPDATED WITH LECTURER NAME                        |"
